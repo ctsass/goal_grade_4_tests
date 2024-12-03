@@ -11,7 +11,7 @@ t2 = st.number_input('Input your Test 2 grade', format='%g', step=0.1)
 
 t3 = st.number_input('Input your Test 3 grade', format='%g', step=0.1)
 
-t4 = st.number_input('Input your Test 3 grade', format='%g', step=0.1)
+t4 = st.number_input('Input your Test 4 grade', format='%g', step=0.1)
 
 q = st.number_input('Input your Quizzes total', format='%g', step=0.1)
 
